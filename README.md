@@ -1,2 +1,2 @@
 # Fetch-Apis
-<img src="./images.png">
+<img src="./">
